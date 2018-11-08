@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+body{
+	background-color: #0003;
+}
+
+canvas{ 
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border: 1px solid #000;
+ }
+=======
+
+body{
+	margin: 10px;
+}
+/*
+#myGame{
+border:1px solid #000000;
+background-color: black;
+
+}*/
+
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+}
+>>>>>>> 3f67ba35061a6b81dabe22fc50ae390f9a65cde8
